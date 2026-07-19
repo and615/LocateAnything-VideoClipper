@@ -1,5 +1,5 @@
-> ⚠️ **<samp>重要版权与商用法律声明</samp>**
->
+> [!CAUTION]
+> ### ⚠️ 重要版权与商用法律声明
 > 本整合包基于 NVIDIA [LocateAnything-3B](https://huggingface.co/nvidia/LocateAnything-3B) 模型制作。**本整合包严格禁止商用，仅限学术与研究体验。**
 > 
 > 其核心依赖的模型权重遵循 [NVIDIA License](https://huggingface.co/nvidia/LocateAnything-3B)，仅限学术和非营利研究用途，**【绝对不允许商业使用】**。用户因违反上游协议产生的任何法律及商业后果，由使用者自行承担。
